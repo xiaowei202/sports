@@ -1,0 +1,281 @@
+#EXTM3U
+#EXTINF:-1,Sky Sports 1 HD 720
+http://23.237.4.162:8080/Skysports1/index.m3u8
+#EXTINF:-1,Sky Sports 2 HD 720
+http://23.237.4.162:8080/Skysports2/index.m3u8
+#EXTINF:-1,Sky Sports 3 HD 720
+http://23.237.4.162:8080/Skysports3/index.m3u8
+#EXTINF:-1,Sky Sports 3 HD 720/1080p
+http://23.237.4.162:8080/SkySportsHD3/index.m3u8
+#EXTINF:-1,Sky Sports 4 HD 720
+http://23.237.4.162:8080/SkySports4/index.m3u8
+#EXTINF:-1,Sky Sports 5 HD 720
+http://23.237.4.162:8080/SkySports5/index.m3u8
+#EXTINF:-1,Sky Sports 1 SD
+http://78.56.221.9:7059/skysp1
+#EXTINF:-1,Sky Sports 2 SD
+http://78.56.221.9:7059/skysp2
+#EXTINF:-1,Sky Sports 2 SD
+http://fra1.ddns.net:97/live/test/test/366.m3u8
+#EXTINF:-1,Sky Sports 3 SD
+http://78.56.221.9:7059/skysp3
+#EXTINF:-1,Sky Sports F1 SD
+http://78.56.221.9:7059/skyspf1
+#EXTINF:-1,Sky Sports 1 HD
+http://premium.exabytetv.info/gc/10011000110010110110110010100100101-ExabyteTV/1603/exabytetv.m3u8
+#EXTINF:-1,Sky Sports 2 HD
+http://premium.exabytetv.info/gc/10011000110010110110110010100100101-ExabyteTV/1604/exabytetv.m3u8
+#EXTINF:-1,Sky Sports 2 HD
+http://premium.exabytetv.info/gc/10011000110010110110110010100100101-ExabyteTV/1601/exabytetv.m3u8
+#EXTINF:-1,Sky Sports 3 HD
+http://premium.exabytetv.info/gc/10011000110010110110110010100100101-ExabyteTV/1605/exabytetv.m3u8
+#EXTINF:-1,Sky Sports 4 HD
+http://premium.exabytetv.info/gc/10011000110010110110110010100100101-ExabyteTV/1606/exabytetv.m3u8
+#EXTINF:-1,Sky Sports 5 HD
+http://premium.exabytetv.info/gc/10011000110010110110110010100100101-ExabyteTV/1607/exabytetv.m3u8
+#EXTINF:-1,Sky Sports News
+http://premium.exabytetv.info/gc/10011000110010110110110010100100101-ExabyteTV/1608/exabytetv.m3u8
+#EXTINF:-1,Sky Sports F1
+http://premium.exabytetv.info/gc/10011000110010110110110010100100101-ExabyteTV/1609/exabytetv.m3u8
+#EXTINF:-1,BT Sport 1
+http://23.237.4.162:8080/BTSport1/index.m3u8
+#EXTINF:-1,BT Sport 2
+http://23.237.4.162:8080/BTSport2/index.m3u8
+#EXTINF:-1,BT Sport 3
+http://23.237.4.162:8080/BTSportEurope/index.m3u8
+#EXTINF:-1,BT Sport ESPN
+http://23.237.4.162:8080/BTSportESPN/index.m3u8
+#EXTINF:-1,BT Sport 1
+http://149.202.207.8:8080/M00ne3EbeETy-1/Strm/index.m3u8
+#EXTINF:-1,BT Sport 2
+http://149.202.207.8:8080/M00ne3EbeETy-2/Strm/index.m3u8
+#EXTINF:-1,BT Sport ESPN
+http://149.202.207.8:8080/M00ne3EbteiSsepn/Strm/index.m3u8
+#EXTINF:-1,BT Sport 1 HD
+http://premium.exabytetv.info/gc/10011000110010110110110010100100101-ExabyteTV/1610/exabytetv.m3u8
+#EXTINF:-1,BT Sport 2 HD
+http://premium.exabytetv.info/gc/10011000110010110110110010100100101-ExabyteTV/1611/exabytetv.m3u8
+#EXTINF:-1,BT Sport 3 HD
+http://premium.exabytetv.info/gc/10011000110010110110110010100100101-ExabyteTV/1574/exabytetv.m3u8
+#EXTINF:-1,BT Sport ESPN
+http://premium.exabytetv.info/gc/10011000110010110110110010100100101-ExabyteTV/1573/exabytetv.m3u8
+#EXTINF:-1,Setanta Sports
+http://193.124.190.230:5000/udp/239.0.0.15:1234
+#EXTINF:-1,Setanta Sports Plus
+http://193.124.190.230:5000/udp/239.0.0.16:1234
+#EXTINF:-1,EuroSport 1
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
+#EXTINF:-1,EuroSport 2
+http://live-k24.rhcloud.com/Sport/Sport.m3u8ch=eurosport2
+#EXTINF:-1,USA Network Shows Prem
+http://46.166.162.35:9090/load/b0922f3fa8aa/17.m3u8
+#EXTINF:-1,USA Network HD
+http://216.31.255.235/hlsl/3/USA/USA.m3u8
+#EXTINF:-1,Fox Sports 1 USA
+http://46.166.162.35:9090/load/b0922f3fa8aa/45.m3u8
+#EXTINF:-1,Fox Sports 2 USA
+http://46.166.162.35:9090/load/b0922f3fa8aa/46.m3u8
+#EXTINF:-1,Fox Sports 1 ES
+http://149.202.207.8:8080/M00ne3Ef00cs-sp-1/Strm/index.m3u8
+#EXTINF:-1,SportsNet World SNWL
+http://46.166.162.35:9090/load/b0922f3fa8aa/59.m3u8
+#EXTINF:-1,SNO
+http://46.166.162.35:9090/load/b0922f3fa8aa/60.m3u8
+#EXTINF:-1,SN 360
+http://46.166.162.35:9090/load/b0922f3fa8aa/58.m3u8
+#EXTINF:-1,SN One
+http://46.166.162.35:9090/load/b0922f3fa8aa/57.m3u8
+#EXTINF:-1,orig USA Sports
+http://r1.tvstrike.xyz:27778/Usa/Sports
+#EXTINF:-1,orig USA Sports 2
+http://r1.tvstrike.xyz:27778/Usa/Sports-2
+#EXTINF:-1,orig USA HD Sports
+http://r1.tvstrike.xyz:27778/Usa/HD-Sports
+#EXTINF:-1,Silk Sports
+http://94.43.239.178:8080/CHANNEL813/bitrates.m3u8
+#EXTINF:-1,Silk Sports 1
+http://94.43.239.178:8080/CHANNEL527/bitrates.m3u8
+#EXTINF:-1,Silk Sports 2
+http://94.43.239.178:8080/CHANNEL532/bitrates.m3u8
+#EXTINF:-1,Silk Sports 3
+http://94.43.239.178:8080/CHANNEL634/bitrates.m3u8
+#EXTINF:-1,Silk Sports
+http://188.169.178.234:8080/CHANNEL527/BITRATE1/playlist.m3u8
+#EXTINF:-1,Silk Sports 1
+http://188.169.178.234:8080/CHANNEL527/BITRATE1/playlist.m3u8
+#EXTINF:-1,Silk Sports 2
+http://188.169.178.234:8080/CHANNEL532/BITRATE1/playlist.m3u8
+#EXTINF:-1,Silk Sports 3
+http://188.169.178.234:8080/CHANNEL634/BITRATE1/playlist.m3u8
+#EXTINF:-1,Sports Stream HD (Stream Switches Channels)
+http://46.105.161.243:8085/lighd
+#EXTINF:-1,TSN 1
+http://149.202.207.8:8080/M00ne3E/teesn1/index.m3u8
+#EXTINF:-1,TSN 2
+http://149.202.207.8:8080/M00ne3E/teesn2/index.m3u8
+#EXTINF:-1,TSN 3
+http://149.202.207.8:8080/M00ne3E/teesn3/index.m3u8
+#EXTINF:-1,TSN 4
+http://149.202.207.8:8080/M00ne3E/teesn4/index.m3u8
+#EXTINF:-1,TSN 5
+http://149.202.207.8:8080/M00ne3E/teesn5/index.m3u8
+#EXTINF:-1,TSN 1
+http://46.166.162.35:9090/load/b0922f3fa8aa/52.m3u8
+#EXTINF:-1,TSN 2
+http://46.166.162.35:9090/load/b0922f3fa8aa/53.m3u8
+#EXTINF:-1,TSN 3
+http://46.166.162.35:9090/load/b0922f3fa8aa/54.m3u8
+#EXTINF:-1,TSN 4
+http://46.166.162.35:9090/load/b0922f3fa8aa/55.m3u8
+#EXTINF:-1,TSN 5
+http://46.166.162.35:9090/load/b0922f3fa8aa/56.m3u8
+#EXTINF:-1,TSN 1
+http://premium.exabytetv.info/gc/10011000110010110110110010100100101-ExabyteTV/1578/exabytetv.m3u8
+#EXTINF:-1,TSN 2
+http://premium.exabytetv.info/gc/10011000110010110110110010100100101-ExabyteTV/1579/exabytetv.m3u8
+#EXTINF:-1,TSN 3
+http://premium.exabytetv.info/gc/10011000110010110110110010100100101-ExabyteTV/1580/exabytetv.m3u8
+#EXTINF:-1,TSN 4
+http://premium.exabytetv.info/gc/10011000110010110110110010100100101-ExabyteTV/1581/exabytetv.m3u8
+#EXTINF:-1,TSN 5
+http://premium.exabytetv.info/gc/10011000110010110110110010100100101-ExabyteTV/1582/exabytetv.m3u8
+#EXTINF:-1,Star Sports 1 HD
+http://23.237.4.162:8080/StarSports_Hd1/index.m3u8
+#EXTINF:-1,Star Sports 2 HD
+http://23.237.4.162:8080/StarSports_Hd2/index.m3u8
+#EXTINF:-1,Star Sports 3 HD
+http://23.237.4.162:8080/StarSports_Hd3/index.m3u8
+#EXTINF:-1,Star Sports 4 HD
+http://23.237.4.162:8080/StarSports_Hd4/index.m3u8
+#EXTINF:-1,Star Sports 1
+http://23.237.4.162:8080/INSP_STARSPORTS1SD-SPORTS/index.m3u8
+#EXTINF:-1,Star Sports 2
+http://23.237.4.162:8080/INSP_STARSPORTS2SD-SPORTS/index.m3u8
+#EXTINF:-1,Ten 3
+http://23.237.4.162:8080/Ten-3/index.m3u8
+#EXTINF:-1,Ten HD
+http://23.237.4.162:8080/TEN_HD/index.m3u8
+#EXTINF:-1,Ten Cricket
+http://23.237.4.162:8080/TenCricket-SPORTS/index.m3u8
+#EXTINF:-1,Neo Sports
+http://23.237.4.162:8080/neo_sports/index.m3u8
+#EXTINF:-1,Ten Sports SD Shows Prem
+http://5.254.101.203:1935/tensports/tensports/playlist.m3u8
+#EXTINF:-1,Sony Six HD
+http://23.237.4.162:8080/sonysixhd/index.m3u8
+#EXTINF:-1,PTV Sports
+http://23.237.4.162:8080/PTVSports/index.m3u8
+#EXTINF:-1,-Local-BeIN Sport 11
+http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/538.ts
+#EXTINF:-1,-Local-BeIN Sport 12
+http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/539.ts
+#EXTINF:-1,Bein Sports 1 HD
+http://198.16.76.122:8000/417/PBJ44EKYAVD6ODAT
+#EXTINF:-1,Bein Sports 2 HD
+http://198.16.76.122:8000/418/PBJ44EKYAVD6ODAT
+#EXTINF:-1,Bein Sports 2
+http://149.202.207.8:8080/M00ne3Ebhensp-2/Strm/index.m3u8
+#EXTINF:-1,Bein Sports 11
+http://149.202.207.8:8080/M00ne3Ebhensp-11/Strm/index.m3u8
+#EXTINF:-1,Bein Sports 12
+http://149.202.207.8:8080/M00ne3Ebhensp-12/Strm/index.m3u8
+#EXTINF:-1,Bein Sports Liga
+http://178.156.79.1:9090/play/a02a
+#EXTINF:-1,Bein Sports
+http://fra1.ddns.net:97/live/test/test/550.m3u8
+#EXTINF:-1,Polsat Sport HD
+http://198.16.76.122:8000/511/LCLDTIPOAUOEMAH0
+#EXTINF:-1,Polsat Sport Extra HD
+http://198.16.76.122:8000/514/LCLDTIPOAUOEMAH0
+#EXTINF:-1,Eurosport 1 HD Polska
+http://198.16.76.122:8000/527/LCLDTIPOAUOEMAH0
+#EXTINF:-1,Eurosport 2 HD Polska
+http://198.16.76.122:8000/535/LCLDTIPOAUOEMAH0
+#EXTINF:-1,Canal + Sport HD
+http://198.16.76.122:8000/552/LCLDTIPOAUOEMAH0
+#EXTINF:-1,Eleven Sports Polska HD
+http://198.16.76.122:8000/554/LCLDTIPOAUOEMAH0
+#EXTINF:-1,Polsat Sport
+http://198.16.76.122:8000/592/LCLDTIPOAUOEMAH0
+#EXTINF:-1,Polsat Sport Extra
+http://198.16.76.122:8000/593/LCLDTIPOAUOEMAH0
+#EXTINF:-1,Canal+ Sport 2 HD
+http://198.16.76.122:8000/609/LCLDTIPOAUOEMAH0
+#EXTINF:-1,Sky Sport 1 IT
+http://198.16.76.122:8000/211/PBJ44EKYAVD6ODAT
+#EXTINF:-1,Sky Sport 1 HD IT
+http://198.16.76.122:8000/230/PBJ44EKYAVD6ODAT
+#EXTINF:-1,Sky Sport Bundesliga 1
+http://198.16.76.122:8000/212/PBJ44EKYAVD6ODAT
+#EXTINF:-1,Sky Sport Austria HD
+http://198.16.76.122:8000/218/PBJ44EKYAVD6ODAT
+#EXTINF:-1,MGM
+http://198.16.76.122:8000/214/PBJ44EKYAVD6ODAT
+#EXTINF:-1,Eurosport 2 HD
+http://198.16.76.122:8000/216/PBJ44EKYAVD6ODAT
+#EXTINF:-1,Sport1 US HD
+http://198.16.76.122:8000/221/PBJ44EKYAVD6ODAT
+#EXTINF:-1,CANAL+ SPORT 1 HD
+http://198.16.76.122:8000/552/PBJ44EKYAVD6ODAT
+#EXTINF:-1,CANAL+ SPORT 2 HD
+http://198.16.76.122:8000/609/PBJ44EKYAVD6ODAT
+#EXTINF:-1,Eleven Sports HD
+http://198.16.76.122:8000/554/PBJ44EKYAVD6ODAT
+#EXTINF:-1,Polsat Sport
+http://198.16.76.122:8000/592/PBJ44EKYAVD6ODAT
+#EXTINF:-1,Polsat Sport Extra
+http://198.16.76.122:8000/593/PBJ44EKYAVD6ODAT
+#EXTINF:-1,Orange Sport
+http://198.16.76.122:8000/428/PBJ44EKYAVD6ODAT
+#EXTINF:-1,Sky Sport Austria
+http://198.16.76.122:8000/194/OLOYOFOY97DHK832
+#EXTINF:-1,Sky Sport Austria HD
+http://198.16.76.122:8000/218/OLOYOFOY97DHK832
+#EXTINF:-1,Sky Sport 2
+http://198.16.76.122:8000/201/OLOYOFOY97DHK832
+#EXTINF:-1,Sky Sport 1 Deutschland
+http://198.16.76.122:8000/211/OLOYOFOY97DHK832
+#EXTINF:-1,Sport 1 HD Deutschland
+http://198.16.76.122:8000/467/OLOYOFOY97DHK832
+#EXTINF:-1,Sky Bundesliga 1
+http://198.16.76.122:8000/212/OLOYOFOY97DHK832
+#EXTINF:-1,Orange sport Polska
+http://198.16.76.122:8000/428/OLOYOFOY97DHK832
+#EXTINF:-1,Polsat Sport HD
+http://198.16.76.122:8000/511/OLOYOFOY97DHK832
+#EXTINF:-1,Polsat Sport Extra HD
+http://198.16.76.122:8000/514/OLOYOFOY97DHK832
+#EXTINF:-1,Canal + Sport HD
+http://198.16.76.122:8000/552/OLOYOFOY97DHK832
+#EXTINF:-1,Canal+ Sport 2 HD
+http://198.16.76.122:8000/609/OLOYOFOY97DHK832
+#EXTINF:-1,Eleven Sports Polska HD
+http://198.16.76.122:8000/554/OLOYOFOY97DHK832
+#EXTINF:-1,CCTV_5+HD
+http://60.220.196.154/livehls1-cnc.wasu.cn/hd_cctv5jia/z.m3u8
+#EXTINF:-1,CCTV_5 HD
+http://60.220.196.154/livehls1-cnc.wasu.cn/hd_cctv5/z.m3u8
+#EXTINF:-1,CCTV 5
+http://223.255.29.9/zhcs/live/cstv24_800k/live.m3u8
+#EXTINF:-1,CCTV Football
+http://60.220.196.154/livehls1-cnc.wasu.cn/fyzq/z.m3u8
+#EXTINF:-1,CCTV Football
+http://121.31.30.86:8080/ysten-business/live/cctvfootbal/yst.m3u8
+#EXTINF:-1,China Sports
+http://60.220.196.154/livehls2-cnc.wasu.cn/dzty/z.m3u8
+#EXTINF:-1,China European football
+http://60.220.196.154/livehls1-cnc.wasu.cn/ozzq/z.m3u8
+#EXTINF:-1,China European football rtsp stream
+rtsp://58.248.254.11/tvlive/ozzq-l.sdp
+#EXTINF:-1,Sport TV 5
+http://sport5_live1-lh.akamaihd.net/i/live3_0@129322/master.m3u8
+#EXTINF:-1,Sports
+http://vs7.cdn.ott.otautv.kz:80/dtv/id34_KTR_SG--boec/03/plst.m3u8
+#EXTINF:-1,CCTV5+ HD
+http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/hdcctv05plus/.m3u8
+#EXTINF:-1,CCTV5
+http://180.100.1.250/cdn/iptv/Tvod/001/ch00000090990000001028/index.m3u8
+#EXTINF:-1,CHINA SPORT HD
+http://183.207.255.190:80/live/program/live/ssty/1300000/mnf.m3u8
+#EXTINF:-1,CCTV5
+http://live.hcs.cmvideo.cn:8088/wd_r2/cctv/cctv5/350/01.m3u8?msisdn=0436549655056&mdspid=&spid=699004&netType=1&sid=2200221956&pid=2028596513×tamp=20160927001450&SecurityKey=20160927001450&Channel_ID=1004_10010001005&ProgramID=603993188&ParentNodeID=-99&assertID=2200221956&mtv_session=7d8da00063422f6de7cd279013bf76b6&HlsSubType=1&HlsProfileId=1&encrypt=3b6fcf49ebe4b22f77a715367a51445
