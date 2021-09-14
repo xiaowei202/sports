@@ -1,0 +1,764 @@
+EXTINF:-1,BBC 1 高清*
+http://149.202.215.151:8080/live/home/home/11526.ts
+#EXTINF:-1,BBC 1 SD
+http://149.202.215.151:8080/live/home/home/11983.ts
+#EXTINF:-1,BBC 2 高清*
+http://149.202.215.151:8080/live/home/home/11570.ts
+#EXTINF:-1,BBC 2 SD
+http://149.202.215.151:8080/live/home/home/673.ts
+#EXTINF:-1,BBC 3 高清
+http://149.202.215.151:8080/live/home/home/15132.ts
+#EXTINF:-1,BBC 4 高清
+http://149.202.215.151:8080/live/home/home/660.ts
+#EXTINF:-1,ITV 高清*
+http://149.202.215.151:8080/live/home/home/11377.ts
+#EXTINF:-1,ITV SD
+http://149.202.215.151:8080/live/home/home/672.ts
+#EXTINF:-1,ITV2 高清
+http://149.202.215.151:8080/live/home/home/11569.ts
+#EXTINF:-1,ITV 2 SD
+http://149.202.215.151:8080/live/home/home/659.ts
+#EXTINF:-1,ITV3 高清
+http://149.202.215.151:8080/live/home/home/658.ts
+#EXTINF:-1,ITV4 高清
+http://149.202.215.151:8080/live/home/home/657.ts
+#EXTINF:-1,ITVBe HD
+http://149.202.215.151:8080/live/home/home/656.ts
+#EXTINF:-1,ITV Encore HD
+http://149.202.215.151:8080/live/home/home/12399.ts
+#EXTINF:-1,ITV 安可
+http://149.202.215.151:8080/live/home/home/5243.ts
+#EXTINF:-1,第 4 频道高清*
+http://149.202.215.151:8080/live/home/home/12394.ts
+#EXTINF:-1,Channel 4 SD
+http://149.202.215.151:8080/live/home/home/4668.ts
+#EXTINF:-1,通道 4+1
+http://149.202.215.151:8080/live/home/home/20645.ts
+#EXTINF:-1,E4 高清
+http://149.202.215.151:8080/live/home/home/653.ts
+#EXTINF:-1,More4 HD
+http://149.202.215.151:8080/live/home/home/651.ts
+#EXTINF:-1,4seven HD
+http://149.202.215.151:8080/live/home/home/5564.ts
+#EXTINF:-1,第 5 频道高清*
+http://149.202.215.151:8080/live/home/home/12395.ts
+#EXTINF:-1,Channel 5 SD
+http://149.202.215.151:8080/live/home/home/671.ts
+#EXTINF:-1,5 美国
+http://149.202.215.151:8080/live/home/home/655.ts
+#EXTINF:-1,5 美国 +1
+http://149.202.215.151:8080/live/home/home/44091.ts
+#EXTINF:-1,5 星
+http://149.202.215.151:8080/live/home/home/5461.ts
+#EXTINF：-1,5 星 +1
+http://149.202.215.151:8080/live/home/home/44092.ts
+#EXTINF:-1,My5
+http://149.202.215.151:8080/live/home/home/20652.ts
+#EXTINF:-1,Sky1 HD*
+http://149.202.215.151:8080/live/home/home/667.ts
+#EXTINF:-1,天空 2
+http://149.202.215.151:8080/live/home/home/666.ts
+#EXTINF:-1,天空生活高清*
+http://149.202.215.151:8080/live/home/home/5561.ts
+#EXTINF:-1,Sky Living +1
+http://149.202.215.151:8080/live/home/home/13329.ts
+#EXTINF:-1,天空大西洋高清
+http://149.202.215.151:8080/live/home/home/665.ts
+#EXTINF:-1,3e 爱尔兰
+http://149.202.215.151:8080/live/home/home/27237.ts
+#EXTINF:-1,黄金
+http://149.202.215.151:8080/live/home/home/662.ts
+#EXTINF:-1,选择
+http://149.202.215.151:8080/live/home/home/4960.ts
+#EXTINF:-1,福克斯高清
+http://149.202.215.151:8080/live/home/home/4959.ts
+#EXTINF:-1,DMAX
+http://149.202.215.151:8080/live/home/home/366.ts
+#EXTINF:-1,戴夫高清
+http://149.202.215.151:8080/live/home/home/11000.ts
+#EXTINF:-1,戴夫
+http://149.202.215.151:8080/live/home/home/663.ts
+#EXTINF:-1,CBS 剧情高清
+http://149.202.215.151:8080/live/home/home/627.ts
+#EXTINF:-1,CBS 动作高清
+http://149.202.215.151:8080/live/home/home/628.ts
+#EXTINF:-1,CBS Reality HD
+http://149.202.215.151:8080/live/home/home/626.ts
+#EXTINF:-1,UTV 高清
+http://149.202.215.151:8080/live/home/home/12397.ts
+#EXTINF:-1,喜剧中心高清
+http://149.202.215.151:8080/live/home/home/11001.ts
+#EXTINF:-1,喜剧中心
+http://149.202.215.151:8080/live/home/home/5453.ts
+#EXTINF:-1,喜剧中心额外
+http://149.202.215.151:8080/live/home/home/5452.ts
+#EXTINF:-1,挑战
+http://149.202.215.151:8080/live/home/home/5460.ts
+#EXTINF:-1,家居与健康+
+http://149.202.215.151:8080/live/home/home/13338.ts
+#EXTINF:-1,天空艺术高清
+http://149.202.215.151:8080/live/home/home/631.ts
+#EXTINF：-1，不在场证明。
+http://149.202.215.151:8080/live/home/home/632.ts
+#EXTINF:-1,戏剧
+http://149.202.215.151:8080/live/home/home/629.ts
+#EXTINF:-1,昨天
+http://149.202.215.151:8080/live/home/home/5563.ts
+#EXTINF:-1,QUEST
+http://149.202.215.151:8080/live/home/home/641.ts
+#EXTINF:-1,美食网
+http://149.202.215.151:8080/live/home/home/650.ts
+#EXTINF:-1,Viceland
+http://149.202.215.151:8080/live/home/home/29332.ts
+#EXTINF:-1,环球频道
+http://149.202.215.151:8080/live/home/home/624.ts
+#EXTINF:-1,TLC 高清
+http://149.202.215.151:8080/live/home/home/644.ts
+#EXTINF:-1,TLC。
+http://149.202.215.151:8080/live/home/home/9948.ts
+#EXTINF:-1,E!
+http://149.202.215.151:8080/live/home/home/7996.ts
+#EXTINF:-1,伊甸园
+http://149.202.215.151:8080/live/home/home/13098.ts
+#EXTINF:-1,首页
+http://149.202.215.151:8080/live/home/home/6907.ts
+#EXTINF:-1,终身高清
+http://149.202.215.151:8080/live/home/home/6610.ts
+#EXTINF:-1,真实生活
+http://149.202.215.151:8080/live/home/home/5560.ts
+#EXTINF:-1,RTÉ One HD
+http://149.202.215.151:8080/live/home/home/19261.ts
+#EXTINF:-1,RTÉ 一
+http://149.202.215.151:8080/live/home/home/639.ts
+#EXTINF:-1,RTÉ 两个高清
+http://149.202.215.151:8080/live/home/home/19262.ts
+#EXTINF:-1,RTÉ 2
+http://149.202.215.151:8080/live/home/home/638.ts
+#EXTINF:-1,RTÉ Jr
+http://149.202.215.151:8080/live/home/home/27240.ts
+#EXTINF:-1,TV3 HD
+http://149.202.215.151:8080/live/home/home/635.ts
+#EXTINF:-1,TG4 高清
+http://149.202.215.151:8080/live/home/home/8675.ts
+#EXTINF:-1,RTE 新闻现在
+http://149.202.215.151:8080/live/home/home/12321.ts
+#EXTINF:-1,精品生活网
+http://149.202.215.151:8080/live/home/home/12134.ts
+#EXTINF:-1,斯派克
+http://149.202.215.151:8080/live/home/home/14237.ts
+#EXTINF：-1，真实生活。
+http://149.202.215.151:8080/live/home/home/9492.ts
+#EXTINF:-1,W
+http://149.202.215.151:8080/live/home/home/7994.ts
+#EXTINF:-1,恐怖频道
+http://149.202.215.151:8080/live/home/home/20659.ts
+#EXTINF:-1,探索高清*
+http://149.202.215.151:8080/live/home/home/8247.ts
+#EXTINF:-1,发现SD*
+http://149.202.215.151:8080/live/home/home/19401.ts
+#EXTINF:-1,Discovery Turbo*
+http://149.202.215.151:8080/live/home/home/5471.ts
+#EXTINF:-1,探索棚*
+http://149.202.215.151:8080/live/home/home/5470.ts
+#EXTINF:-1，调查发现。
+http://149.202.215.151:8080/live/home/home/5467.ts
+#EXTINF:-1,探索家居与健康
+http://149.202.215.151:8080/live/home/home/5451.ts
+#EXTINF:-1,发现历史
+http://149.202.215.151:8080/live/home/home/619.ts
+#EXTINF:-1,发现科学*
+http://149.202.215.151:8080/live/home/home/9949.ts
+#EXTINF:-1,Discovery Showcase HD*
+http://149.202.215.151:8080/live/home/home/9945.ts
+#EXTINF:-1,国家地理高清
+http://149.202.215.151:8080/live/home/home/8248.ts
+#EXTINF:-1,国家地理
+http://149.202.215.151:8080/live/home/home/20634.ts
+#EXTINF:-1,Nat Geo HD
+http://149.202.215.151:8080/live/home/home/20818.ts
+#EXTINF:-1,Nat Geo Wild HD
+http://149.202.215.151:8080/live/home/home/10998.ts
+#EXTINF:-1,Nat Geo Wild
+http://149.202.215.151:8080/live/home/home/617.ts
+#EXTINF:-1,犯罪与调查
+http://149.202.215.151:8080/live/home/home/5454.ts
+#EXTINF:-1,天空新闻高清
+http://149.202.215.151:8080/live/home/home/670.ts
+#EXTINF:-1,犯罪与调查全高清
+http://149.202.215.151:8080/live/home/home/12376.ts
+#EXTINF:-1,调查发现
+http://149.202.215.151:8080/live/home/home/13327.ts
+#EXTINF:-1,动物星球高清
+http://149.202.215.151:8080/live/home/home/20817.ts
+#EXTINF:-1,动物星球
+http://149.202.215.151:8080/live/home/home/9950.ts
+#EXTINF:-1,历史
+http://149.202.215.151:8080/live/home/home/649.ts
+#EXTINF:-1,H2 高清
+http://149.202.215.151:8080/live/home/home/20819.ts
+#EXTINF:-1,H2
+http://149.202.215.151:8080/live/home/home/8452.ts
+#EXTINF：-1，婴儿电视。
+http://149.202.215.151:8080/live/home/home/12027.ts
+#EXTINF:-1,迪士尼
+http://149.202.215.151:8080/live/home/home/590.ts
+#EXTINF:-1,迪士尼 XD HD
+http://149.202.215.151:8080/live/home/home/595.ts
+#EXTINF:-1,迪士尼少年
+http://149.202.215.151:8080/live/home/home/596.ts
+#EXTINF:-1,尼克卡通
+http://149.202.215.151:8080/live/home/home/11514.ts
+#EXTINF:-1,小尼克
+http://149.202.215.151:8080/live/home/home/594.ts
+#EXTINF：-1，小尼克也是。
+http://149.202.215.151:8080/live/home/home/8684.ts
+#EXTINF:-1,Nickelodeon
+http://149.202.215.151:8080/live/home/home/592.ts
+#EXTINF:-1,卡通网络高清
+http://149.202.215.151:8080/live/home/home/593.ts
+#EXTINF:-1,卡通
+http://149.202.215.151:8080/live/home/home/13717.ts
+#EXTINF:-1,回旋镖,
+http://149.202.215.151:8080/live/home/home/8688.ts
+#EXTINF:-1,CBeebies HD*
+http://149.202.215.151:8080/live/home/home/8689.ts
+#EXTINF:-1,POP
+http://149.202.215.151:8080/live/home/home/7999.ts
+#EXTINF:-1,MTV 高清
+http://149.202.215.151:8080/live/home/home/11004.ts
+#EXTINF:-1,MTV
+http://149.202.215.151:8080/live/home/home/9446.ts
+#EXTINF:-1,MTV 现场直播 FHD
+http://149.202.215.151:8080/live/home/home/11006.ts
+#EXTINF:-1，MTV 播放高清*
+http://149.202.215.151:8080/live/home/home/11007.ts
+#EXTINF:-1,MTV 摇滚全高清
+http://149.202.215.151:8080/live/home/home/9449.ts
+#EXTINF:-1,MTV 舞蹈高清
+http://149.202.215.151:8080/live/home/home/11008.ts
+#EXTINF:-1,MTV 基础高清*
+http://149.202.215.151:8080/live/home/home/9447.ts
+#EXTINF:-1，MTV 热门歌曲。
+http://149.202.215.151:8080/live/home/home/9448.ts
+#EXTINF:-1,MTV 音乐
+http://149.202.215.151:8080/live/home/home/8249.ts
+#EXTINF:-1，MTV 经典。
+http://149.202.215.151:8080/live/home/home/8250.ts
+#EXTINF:-1,MTV 舞蹈 FHD
+http://149.202.215.151:8080/live/home/home/587.ts
+#EXTINF:-1,VH1
+http://149.202.215.151:8080/live/home/home/8251.ts
+#EXTINF:-1,KISS TV
+http://149.202.215.151:8080/live/home/home/9455.ts
+#EXTINF:-1,Kiss FM
+http://149.202.215.151:8080/live/home/home/14524.ts
+#EXTINF:-1,首都广播电视台
+http://149.202.215.151:8080/live/home/home/12149.ts
+#EXTINF:-1,B4U 音乐。
+http://149.202.215.151:8080/live/home/home/10743.ts
+#EXTINF:-1,BBC1 高清苏格兰 1080p
+http://149.202.215.151:8080/live/home/home/7894.ts
+#EXTINF:-1,BBC1 HD N Ireland
+http://149.202.215.151:8080/live/home/home/11406.ts
+#EXTINF:-1,BBC1 威尔士高清 1080p
+http://149.202.215.151:8080/live/home/home/11118.ts
+#EXTINF:-1,BBC 苏格兰两个
+http://149.202.215.151:8080/live/home/home/20650.ts
+#EXTINF:-1,BBC 2 N Ireland
+http://149.202.215.151:8080/live/home/home/20651.ts
+#EXTINF:-1,BBC 两个威尔士
+http://149.202.215.151:8080/live/home/home/20649.ts
+#EXTINF:-1,ITV 中西部高清 1080p
+http://149.202.215.151:8080/live/home/home/20646.ts
+#EXTINF:-1,ITV Meridian South HD 1080p
+http://149.202.215.151:8080/live/home/home/20648.ts
+#EXTINF:-1,ITV 约克郡西部高清 1080p
+http://149.202.215.151:8080/live/home/home/20647.ts
+#EXTINF:-1，第 4 频道苏格兰
+http://149.202.215.151:8080/live/home/home/20642.ts
+#EXTINF:-1,Channel 4+1 苏格兰
+http://149.202.215.151:8080/live/home/home/20641.ts
+#EXTINF:-1,Channel 4+1 北爱尔兰
+http://149.202.215.151:8080/live/home/home/20643.ts
+#EXTINF:-1,Channel 4 北爱尔兰
+http://149.202.215.151:8080/live/home/home/20644.ts
+#EXTINF:-1,S4C 高清
+http://149.202.215.151:8080/live/home/home/11992.ts
+#EXTINF：-1，STV 高清。
+http://149.202.215.151:8080/live/home/home/13911.ts
+#EXTINF:-1,STV东
+http://149.202.215.151:8080/live/home/home/20640.ts
+#EXTINF：-1，STV东+1
+http://149.202.215.151:8080/live/home/home/20639.ts
+#EXTINF:-1,STV 爱丁堡
+http://149.202.215.151:8080/live/home/home/20638.ts
+#EXTINF:-1,STV格拉斯哥
+http://149.202.215.151:8080/live/home/home/20637.ts
+#EXTINF:-1,STV北
+http://149.202.215.151:8080/live/home/home/20636.ts
+#EXTINF:-1,STV 西部
+http://149.202.215.151:8080/live/home/home/20635.ts
+#EXTINF:-1,MTV 爱尔兰
+http://149.202.215.151:8080/live/home/home/13303.ts
+#EXTINF:-1,E! 爱尔兰
+http://149.202.215.151:8080/live/home/home/20664.ts
+#EXTINF:-1,TLC 爱尔兰
+http://149.202.215.151:8080/live/home/home/13711.ts
+#EXTINF:-1,Alibi Ireland
+http://149.202.215.151:8080/live/home/home/12885.ts
+#EXTINF:-1,戴夫高清*
+http://149.202.215.151:8080/live/home/home/12886.ts
+#EXTINF:-1,家庭愤怒
+http://149.202.215.151:8080/live/home/home/12887.ts
+#EXTINF:-1,金愤怒
+http://149.202.215.151:8080/live/home/home/12888.ts
+#EXTINF:-1,GOLD 爱尔兰
+http://149.202.215.151:8080/live/home/home/13298.ts
+#EXTINF：-1，爱尔兰中部喜剧
+http://149.202.215.151:8080/live/home/home/13288.ts
+#EXTINF:-1,Syfy HD
+http://149.202.215.151:8080/live/home/home/20661.ts
+#EXTINF:-1,发现爱尔兰
+http://149.202.215.151:8080/live/home/home/20665.ts
+#EXTINF:-1,爱尔兰环球
+http://149.202.215.151:8080/live/home/home/20662.ts
+#EXTINF:-1,ComedyXtra Ireland
+http://149.202.215.151:8080/live/home/home/20666.ts
+#EXTINF:-1,UTV Ireland
+http://149.202.215.151:8080/live/home/home/20663.ts
+#EXTINF：-1，新闻：CNN 新闻英国
+http://149.202.215.151:8080/live/home/home/25844.ts
+#EXTINF:-1,NEWS: Euronews UK
+http://149.202.215.151:8080/live/home/home/25841.ts
+#EXTINF:-1,NEWS: FOX News UK
+http://149.202.215.151:8080/live/home/home/25843.ts
+#EXTINF：-1，新闻：福克斯新闻美国
+http://149.202.215.151:8080/live/home/home/25845.ts
+#EXTINF:-1,NEWS: NHK 世界新闻
+http://149.202.215.151:8080/live/home/home/25842.ts
+#EXTINF:-1,天空新闻*高清
+http://149.202.215.151:8080/live/home/home/15133.ts
+#EXTINF:-1,BBC 新闻高清
+http://149.202.215.151:8080/live/home/home/676.ts
+#EXTINF:-1,CNN英国
+http://149.202.215.151:8080/live/home/home/8713.ts
+#EXTINF:-1,Sky Cinema 3D 票房
+http://149.202.215.151:8080/live/home/home/25536.ts
+#EXTINF:-1,Sky Cinema Box Office 1 FHD
+http://149.202.215.151:8080/live/home/home/25535.ts
+#EXTINF:-1,Sky Cinema Box Office 2 FHD
+http://149.202.215.151:8080/live/home/home/25534.ts
+#EXTINF:-1,Sky Cinema Box Office 3 FHD
+http://149.202.215.151:8080/live/home/home/25533.ts
+#EXTINF:-1,Sky Cinema Premiere HD*
+http://149.202.215.151:8080/live/home/home/10983.ts
+#EXTINF:-1,Sky Cinema Premiere HD**
+http://149.202.215.151:8080/live/home/home/13374.ts
+#EXTINF:-1,天空影院首映
+http://149.202.215.151:8080/live/home/home/613.ts
+#EXTINF:-1,Sky Cinema Action HD*
+http://149.202.215.151:8080/live/home/home/10984.ts
+#EXTINF:-1,Sky Cinema Action
+http://149.202.215.151:8080/live/home/home/612.ts
+#EXTINF:-1,Sky Cinema Family HD*
+http://149.202.215.151:8080/live/home/home/10986.ts
+#EXTINF:-1,Sky Cinema Family HD**
+http://149.202.215.151:8080/live/home/home/13372.ts
+#EXTINF:-1,Sky Cinema 系列。
+http://149.202.215.151:8080/live/home/home/610.ts
+#EXTINF:-1,Sky Cinema Disney HD*
+http://149.202.215.151:8080/live/home/home/10985.ts
+#EXTINF:-1,Sky Cinema Disney HD**
+http://149.202.215.151:8080/live/home/home/13371.ts
+#EXTINF：-1，迪斯尼天空影院。
+http://149.202.215.151:8080/live/home/home/608.ts
+#EXTINF:-1,天空电影喜剧高清*
+http://149.202.215.151:8080/live/home/home/10987.ts
+#EXTINF:-1,天空电影喜剧高清**
+http://149.202.215.151:8080/live/home/home/13370.ts
+#EXTINF：-1，天空电影喜剧。
+http://149.202.215.151:8080/live/home/home/607.ts
+#EXTINF:-1,Sky Cinema 犯罪与惊悚 HD*
+http://149.202.215.151:8080/live/home/home/10989.ts
+#EXTINF：-1，天空影院犯罪和惊悚高清**
+http://149.202.215.151:8080/live/home/home/13368.ts
+#EXTINF:-1,Sky Cinema 犯罪与惊悚片
+http://149.202.215.151:8080/live/home/home/604.ts
+#EXTINF:-1,Sky Cinema 剧情与浪漫高清*
+http://149.202.215.151:8080/live/home/home/43540.ts
+#EXTINF：-1，天空影院戏剧与浪漫高清**
+http://149.202.215.151:8080/live/home/home/10993.ts
+#EXTINF:-1,Sky Cinema 戏剧与浪漫
+http://149.202.215.151:8080/live/home/home/9463.ts
+#EXTINF:-1,Sky Cinema Modern Greats HD*
+http://149.202.215.151:8080/live/home/home/13369.ts
+#EXTINF:-1,Sky Cinema Modern Greats
+http://149.202.215.151:8080/live/home/home/599.ts
+#EXTINF:-1,天空影院科幻与恐怖高清*
+http://149.202.215.151:8080/live/home/home/10991.ts
+#EXTINF:-1,天空影院科幻与恐怖
+http://149.202.215.151:8080/live/home/home/4954.ts
+#EXTINF:-1,天空影院选择高清*
+http://149.202.215.151:8080/live/home/home/10990.ts
+#EXTINF:-1,天空影院选择
+http://149.202.215.151:8080/live/home/home/4955.ts
+#EXTINF:-1，Sky Cinema 播放高清*
+http://149.202.215.151:8080/live/home/home/5475.ts
+#EXTINF:-1,Sky Cinema Showcase HD*
+http://149.202.215.151:8080/live/home/home/10988.ts
+#EXTINF:-1,Sky Cinema Superheroes HD*
+http://149.202.215.151:8080/live/home/home/10992.ts
+#EXTINF:-1,中医高清
+http://149.202.215.151:8080/live/home/home/10995.ts
+#EXTINF:-1,电影 4 人
+http://149.202.215.151:8080/live/home/home/597.ts
+#EXTINF:-1,真电影 1.
+http://149.202.215.151:8080/live/home/home/368.ts
+#EXTINF：-1，真实电影 2。
+http://149.202.215.151:8080/live/home/home/369.ts
+#EXTINF:-1,Film4 HD
+http://149.202.215.151:8080/live/home/home/8000.ts
+#EXTINF:-1,*4K*：乐视纪录片4K
+http://149.202.215.151:8080/live/home/home/25546.ts
+#EXTINF:-1,天空体育票房高清
+http://149.202.215.151:8080/live/home/home/12843.ts
+#EXTINF:-1,Sky Sports Mix HD
+http://149.202.215.151:8080/live/home/home/12779.ts
+#EXTINF:-1,天空体育新闻高清
+http://149.202.215.151:8080/live/home/home/586.ts
+#EXTINF:-1,天空体育新闻高清*
+http://149.202.215.151:8080/live/home/home/12147.ts
+#EXTINF:-1,天空体育新闻总部
+http://149.202.215.151:8080/live/home/home/44101.ts
+#EXTINF:-1,天空体育新闻总部*
+http://149.202.215.151:8080/live/home/home/44102.ts
+#EXTINF:-1,天空体育主赛事高清
+http://149.202.215.151:8080/live/home/home/585.ts
+#EXTINF:-1,Sky Sports 主要赛事 SD
+http://149.202.215.151:8080/live/home/home/579.ts
+#EXTINF:-1,Sky Sports Cricket HD
+http://149.202.215.151:8080/live/home/home/584.ts
+#EXTINF:-1,Sky Sports Cricket SD
+http://149.202.215.151:8080/live/home/home/578.ts
+#EXTINF:-1,天空体育动作高清
+http://149.202.215.151:8080/live/home/home/583.ts
+#EXTINF:-1,Sky Sports Action SD
+http://149.202.215.151:8080/live/home/home/577.ts
+#EXTINF:-1,天空体育高尔夫高清
+http://149.202.215.151:8080/live/home/home/582.ts
+#EXTINF:-1,Sky Sports Golf SD
+http://149.202.215.151:8080/live/home/home/576.ts
+#EXTINF:-1,天空体育超级联赛高清
+http://149.202.215.151:8080/live/home/home/581.ts
+#EXTINF:-1,Sky Sports Premier League SD
+http://149.202.215.151:8080/live/home/home/575.ts
+#EXTINF:-1,Sky Sport Arena HD*
+http://149.202.215.151:8080/live/home/home/32740.ts
+#EXTINF:-1,Sky Sport Arena HD
+http://149.202.215.151:8080/live/home/home/32739.ts
+#EXTINF:-1,Sky Sport Arena SD
+http://149.202.215.151:8080/live/home/home/32738.ts
+#EXTINF:-1,Sky Sport Football HD*
+http://149.202.215.151:8080/live/home/home/32743.ts
+#EXTINF:-1,天空体育足球高清
+http://149.202.215.151:8080/live/home/home/32742.ts
+#EXTINF:-1,Sky Sport Football SD
+http://149.202.215.151:8080/live/home/home/32741.ts
+#EXTINF:-1,Sky Sports F1 HD
+http://149.202.215.151:8080/live/home/home/580.ts
+#EXTINF:-1,Sky Sports F1 SD
+http://149.202.215.151:8080/live/home/home/574.ts
+#EXTINF:-1,BT 体育 1 高清
+http://149.202.215.151:8080/live/home/home/12126.ts
+#EXTINF:-1,BT Sports 1 HD*
+http://149.202.215.151:8080/live/home/home/11375.ts
+#EXTINF:-1,BT Sports 1 SD
+http://149.202.215.151:8080/live/home/home/11787.ts
+#EXTINF:-1,BT 体育 2 高清
+http://149.202.215.151:8080/live/home/home/572.ts
+#EXTINF:-1,BT Sports 2 HD*
+http://149.202.215.151:8080/live/home/home/11374.ts
+#EXTINF:-1,BT 体育 2 SD
+http://149.202.215.151:8080/live/home/home/11786.ts
+#EXTINF:-1,BT 体育 3 高清
+http://149.202.215.151:8080/live/home/home/4931.ts
+#EXTINF:-1,BT Sports 3 HD*
+http://149.202.215.151:8080/live/home/home/11373.ts
+#EXTINF:-1,BT 体育 3 SD
+http://149.202.215.151:8080/live/home/home/11785.ts
+#EXTINF:-1,BT Sport ESPN HD
+http://149.202.215.151:8080/live/home/home/12123.ts
+#EXTINF:-1,BT Sports ESPN HD**
+http://149.202.215.151:8080/live/home/home/4681.ts
+#EXTINF:-1,BT 体育 ESPN
+http://149.202.215.151:8080/live/home/home/11784.ts
+#EXTINF:-1,BT Sport X1 HD
+http://149.202.215.151:8080/live/home/home/4932.ts
+#EXTINF:-1,BT 运动额外 1
+http://149.202.215.151:8080/live/home/home/12416.ts
+#EXTINF:-1,BT Sport Extra 2
+http://149.202.215.151:8080/live/home/home/12415.ts
+#EXTINF:-1,BT Sport Extra 3
+http://149.202.215.151:8080/live/home/home/12414.ts
+#EXTINF:-1,BT Sport Extra 4
+http://149.202.215.151:8080/live/home/home/12413.ts
+#EXTINF:-1,BT Sport Extra 5
+http://149.202.215.151:8080/live/home/home/12412.ts
+#EXTINF:-1,BT Sport Extra 6
+http://149.202.215.151:8080/live/home/home/12411.ts
+#EXTINF:-1,BT 运动马赛克
+http://149.202.215.151:8080/live/home/home/13112.ts
+#EXTINF:-1,英国欧洲体育高清
+http://149.202.215.151:8080/live/home/home/11002.ts
+#EXTINF:-1,British Eurosport 2 HD
+http://149.202.215.151:8080/live/home/home/11003.ts
+#EXTINF:-1,EIR 体育 1
+http://149.202.215.151:8080/live/home/home/11535.ts
+#EXTINF:-1,EIR Sports 2 HD
+http://149.202.215.151:8080/live/home/home/11536.ts
+#EXTINF:-1,Premier Sports HD
+http://149.202.215.151:8080/live/home/home/568.ts
+#EXTINF:-1,Boxnation SD
+http://149.202.215.151:8080/live/home/home/17752.ts
+#EXTINF:-1,赛车电视
+http://149.202.215.151:8080/live/home/home/12170.ts
+#EXTINF:-1,威廉希尔电视台
+http://149.202.215.151:8080/live/home/home/19369.ts
+#EXTINF:-1,在比赛中
+http://149.202.215.151:8080/live/home/home/150.ts
+#EXTINF:-1,RACING UK HD
+http://149.202.215.151:8080/live/home/home/560.ts
+#EXTINF:-1,Racing UK HD 1080P
+http://149.202.215.151:8080/live/home/home/12392.ts
+#EXTINF:-1,红牛电视高清
+http://149.202.215.151:8080/live/home/home/30321.ts
+#EXTINF:-1,MUTV HD*
+http://149.202.215.151:8080/live/home/home/12398.ts
+#EXTINF:-1,利物浦 FC 电视高清 1080p
+http://149.202.215.151:8080/live/home/home/12120.ts
+#EXTINF:-1,利物浦足球俱乐部电视
+http://149.202.215.151:8080/live/home/home/11463.ts
+#EXTINF:-1,切尔西电视台
+http://149.202.215.151:8080/live/home/home/8528.ts
+#EXTINF：-1，美国：CBS 高清 1080p
+http://149.202.215.151:8080/live/home/home/7713.ts
+#EXTINF:-1,US: ABC News West HD
+http://149.202.215.151:8080/live/home/home/5617.ts
+#EXTINF：-1，美国：HBO 喜剧 HD
+http://149.202.215.151:8080/live/home/home/9710.ts
+#EXTINF：-1，美国：HBO HD
+http://149.202.215.151:8080/live/home/home/9708.ts
+#EXTINF：-1，美国：NDTV 高清
+http://149.202.215.151:8080/live/home/home/8395.ts
+#EXTINF：-1，美国：HBO 区高清
+http://149.202.215.151:8080/live/home/home/8369.ts
+#EXTINF:-1,US: HG TV HD
+http://149.202.215.151:8080/live/home/home/8383.ts
+#EXTINF：-1，美国：KTLA 5 HD
+http://149.202.215.151:8080/live/home/home/5668.ts
+#EXTINF:-1,US: C-Span 3 HD
+http://149.202.215.151:8080/live/home/home/5674.ts
+#EXTINF:-1,US: C-Span 2 HD
+http://149.202.215.151:8080/live/home/home/5675.ts
+#EXTINF:-1,US: C-Span 1 HD
+http://149.202.215.151:8080/live/home/home/5676.ts
+#EXTINF：-1，美国：彭博高清
+http://149.202.215.151:8080/live/home/home/5526.ts
+#EXTINF:-1,US: FloridaTV HD
+http://149.202.215.151:8080/live/home/home/5605.ts
+#EXTINF:-1,US: 历史美国高清
+http://149.202.215.151:8080/live/home/home/8392.ts
+#EXTINF：-1，我们：E！娱乐美国高清
+http://149.202.215.151:8080/live/home/home/8393.ts
+#EXTINF：-1，美国：A&E 高清 1080p
+http://149.202.215.151:8080/live/home/home/19221.ts
+#EXTINF：-1，美国：ABC 高清 1080p
+http://149.202.215.151:8080/live/home/home/19220.ts
+#EXTINF:-1,US: ABC 新闻高清
+http://149.202.215.151:8080/live/home/home/19219.ts
+#EXTINF:-1,美国：动物星球高清
+http://149.202.215.151:8080/live/home/home/19218.ts
+#EXTINF：-1，美国：BNN HD
+http://149.202.215.151:8080/live/home/home/19217.ts
+#EXTINF:-1,US: Bavo HD
+http://149.202.215.151:8080/live/home/home/19216.ts
+#EXTINF:-1,US: CBC HD
+http://149.202.215.151:8080/live/home/home/19215.ts
+#EXTINF:-1,US: CBC 2 US
+http://149.202.215.151:8080/live/home/home/19214.ts
+#EXTINF：-1，美国：CNBC 高清
+http://149.202.215.151:8080/live/home/home/19210.ts
+#EXTINF:-1,US: CNN HD
+http://149.202.215.151:8080/live/home/home/19209.ts
+#EXTINF:-1,US: Comedy Central HD
+http://149.202.215.151:8080/live/home/home/19207.ts
+#EXTINF:-1,US: MAX East HD
+http://149.202.215.151:8080/live/home/home/19206.ts
+#EXTINF:-1,US: Cinemax 5 Star Max HD
+http://149.202.215.151:8080/live/home/home/19205.ts
+#EXTINF:-1,US: DIY 网络高清
+http://149.202.215.151:8080/live/home/home/19204.ts
+#EXTINF:-1,US: FOX HD
+http://149.202.215.151:8080/live/home/home/19203.ts
+#EXTINF:-1,US: Discovery Velocity HD
+http://149.202.215.151:8080/live/home/home/19202.ts
+#EXTINF：-1，美国：AMC HD
+http://149.202.215.151:8080/live/home/home/19200.ts
+#EXTINF:-1,US: CBN HD
+http://149.202.215.151:8080/live/home/home/19201.ts
+#EXTINF:-1,US: Cartoon Network HD
+http://149.202.215.151:8080/live/home/home/19198.ts
+#EXTINF:-1,US: 目的地美国高清
+http://149.202.215.151:8080/live/home/home/19197.ts
+#EXTINF:-1,US: Discovery HD
+http://149.202.215.151:8080/live/home/home/19196.ts
+#EXTINF:-1,US: Freeform HD
+http://149.202.215.151:8080/live/home/home/19195.ts
+#EXTINF:-1,US: Fox News HD
+http://149.202.215.151:8080/live/home/home/19194.ts
+#EXTINF:-1,US: FX HD
+http://149.202.215.151:8080/live/home/home/19193.ts
+#EXTINF:-1,US: FXX HD
+http://149.202.215.151:8080/live/home/home/19192.ts
+#EXTINF:-1,US: 历史高清
+http://149.202.215.151:8080/live/home/home/19190.ts
+#EXTINF:-1,US: 调查发现 HD
+http://149.202.215.151:8080/live/home/home/19189.ts
+#EXTINF:-1,US: Spike HD
+http://149.202.215.151:8080/live/home/home/19188.ts
+#EXTINF:-1,US: Science Channel HD
+http://149.202.215.151:8080/live/home/home/19187.ts
+#EXTINF:-1,US: Nat Geo HD
+http://149.202.215.151:8080/live/home/home/19185.ts
+#EXTINF:-1,US: Starz Cinema HD
+http://149.202.215.151:8080/live/home/home/19184.ts
+#EXTINF:-1,US: Starz Encore HD
+http://149.202.215.151:8080/live/home/home/19183.ts
+#EXTINF:-1,US: Starz HD
+http://149.202.215.151:8080/live/home/home/19182.ts
+#EXTINF:-1,US: Syfy HD
+http://149.202.215.151:8080/live/home/home/19181.ts
+#EXTINF:-1,美国:TBS HD
+http://149.202.215.151:8080/live/home/home/19180.ts
+#EXTINF：-1，美国：TLC HD
+http://149.202.215.151:8080/live/home/home/19179.ts
+#EXTINF：-1，美国：TNT HD
+http://149.202.215.151:8080/live/home/home/19178.ts
+#EXTINF:-1,US: 美国网络高清
+http://149.202.215.151:8080/live/home/home/19177.ts
+#EXTINF:-1,US: Velocity HD
+http://149.202.215.151:8080/live/home/home/19176.ts
+#EXTINF:-1,US: Fuel TV HD
+http://149.202.215.151:8080/live/home/home/19175.ts
+#EXTINF:-1,US: ABC Spark HD
+http://149.202.215.151:8080/live/home/home/15369.ts
+#EXTINF：-1，美国：DIY 网络高清 720p
+http://149.202.215.151:8080/live/home/home/15367.ts
+#EXTINF:-1,US: Boomerang HD
+http://149.202.215.151:8080/live/home/home/15301.ts
+#EXTINF:-1,US: CHCH HD
+http://149.202.215.151:8080/live/home/home/15366.ts
+#EXTINF:-1,US: City Vancouver HD
+http://149.202.215.151:8080/live/home/home/15365.ts
+#EXTINF:-1,US: Comedy Gold HD
+http://149.202.215.151:8080/live/home/home/15364.ts
+#EXTINF:-1,US: CP24 HD
+http://149.202.215.151:8080/live/home/home/15362.ts
+#EXTINF：-1，美国：CP24 HD2
+http://149.202.215.151:8080/live/home/home/15329.ts
+#EXTINF：-1，美国：CTV 多伦多高清
+http://149.202.215.151:8080/live/home/home/15361.ts
+#EXTINF：-1，美国：CTV 温哥华高清
+http://149.202.215.151:8080/live/home/home/15333.ts
+#EXTINF：-1，美国：迪士尼高清
+http://149.202.215.151:8080/live/home/home/15334.ts
+#EXTINF:-1,US: CW HD
+http://149.202.215.151:8080/live/home/home/15335.ts
+#EXTINF:-1,US: Fox News HD
+http://149.202.215.151:8080/live/home/home/15360.ts
+#EXTINF:-1,US: Cartoon Network HD USA
+http://149.202.215.151:8080/live/home/home/15359.ts
+#EXTINF:-1,US: G4 HD
+http://149.202.215.151:8080/live/home/home/15358.ts
+#EXTINF：-1，美国：NBC 多伦多
+http://149.202.215.151:8080/live/home/home/15357.ts
+#EXTINF:-1,US: 电影高清
+http://149.202.215.151:8080/live/home/home/15302.ts
+#EXTINF:-1,US: MovieTime HD
+http://149.202.215.151:8080/live/home/home/15356.ts
+#EXTINF：-1，美国：NBC 高清
+http://149.202.215.151:8080/live/home/home/15332.ts
+#EXTINF:-1,US: TVO Kids HD
+http://149.202.215.151:8080/live/home/home/15355.ts
+#EXTINF：-1，美国：HBO 家庭高清
+http://149.202.215.151:8080/live/home/home/15328.ts
+#EXTINF：-1，美国：桃树电视高清
+http://149.202.215.151:8080/live/home/home/15354.ts
+#EXTINF:-1,US: RDI HD
+http://149.202.215.151:8080/live/home/home/15353.ts
+#EXTINF:-1,US: RDS 2 HD
+http://149.202.215.151:8080/live/home/home/15352.ts
+#EXTINF:-1,US: Silver Screen Classics HD
+http://149.202.215.151:8080/live/home/home/15351.ts
+#EXTINF:-1,US: Super Ecran 1 HD
+http://149.202.215.151:8080/live/home/home/15349.ts
+#EXTINF:-1,US: Super Ecran 2 HD
+http://149.202.215.151:8080/live/home/home/15348.ts
+#EXTINF:-1,US: Super Ecran 3 HD
+http://149.202.215.151:8080/live/home/home/15347.ts
+#EXTINF:-1,US: Super Ecran 4 HD
+http://149.202.215.151:8080/live/home/home/15346.ts
+#EXTINF：-1，美国：尼克高清
+http://149.202.215.151:8080/live/home/home/15344.ts
+#EXTINF：-1，美国：Cinemax HD
+http://149.202.215.151:8080/live/home/home/19212.ts
+#EXTINF：-1，美国：WGN 9 HD
+http://149.202.215.151:8080/live/home/home/15340.ts
+#EXTINF:-1,US: AFN 电影高清
+http://149.202.215.151:8080/live/home/home/26072.ts
+#EXTINF：-1，美国：AFN 新闻高清
+http://149.202.215.151:8080/live/home/home/26071.ts
+#EXTINF:-1,US: AFN Prime Atlantic HD
+http://149.202.215.151:8080/live/home/home/26070.ts
+#EXTINF：-1，美国：AFN 体育
+http://149.202.215.151:8080/live/home/home/26068.ts
+#EXTINF:-1,US: AFN Sports 2 HD
+http://149.202.215.151:8080/live/home/home/26067.ts
+#EXTINF:-1,US: AFN Sports HD
+http://149.202.215.151:8080/live/home/home/26066.ts
+#EXTINF:-1,US: Cinemax Action HD
+http://149.202.215.151:8080/live/home/home/26075.ts
+#EXTINF:-1,US: Cinemax Action Max HD
+http://149.202.215.151:8080/live/home/home/26074.ts
+#EXTINF：-1，美国：Cinemax East HD
+http://149.202.215.151:8080/live/home/home/26073.ts
+#EXTINF:-1,US: Univision Deportes HD US
+http://149.202.215.151:8080/live/home/home/26069.ts
+#EXTINF:-1,US: Showtime Extream HD
+http://149.202.215.151:8080/live/home/home/26064.ts
+#EXTINF:-1,US: Showtime HD
+http://149.202.215.151:8080/live/home/home/26065.ts
+#EXTINF:-1,US: Showtime Showcase HD
+http://149.202.215.151:8080/live/home/home/26063.ts
+#EXTINF:-1,US: Starz Comedy HD
+http://149.202.215.151:8080/live/home/home/26078.ts
+#EXTINF:-1,US: Starz East HD
+http://149.202.215.151:8080/live/home/home/26077.ts
+#EXTINF:-1,US: Starz Edge HD
+http://149.202.215.151:8080/live/home/home/26076.ts
+#EXTINF:-1,S4C HD（仅限英国或 VPN）
+http://149.202.215.151:8080/live/home/home/31124.ts
+#EXTINF:-1,SFR Sports 4 UHD 4K
+http://149.202.215.151:8080/live/home/home/15607.ts
+#EXTINF:-1,Sky Sports Action HD*
+http://149.202.215.151:8080/live/home/home/12242.ts
+#EXTINF:-1,Sky Sports Cricket HD*
+http://149.202.215.151:8080/live/home/home/12243.ts
+#EXTINF:-1,Sky Sports F1 HD*
+http://149.202.215.151:8080/live/home/home/12239.ts
+#EXTINF:-1,天空体育主赛事高清*
+http://149.202.215.151:8080/live/home/home/12244.ts
+#EXTINF:-1,天空体育超级联赛高清*
+http://149.202.215.151:8080/live/home/home/12240.ts
+#EXTINF:-1,Sky Sports Golf HD*
+http://149.202.215.151:8080/live/home/home/12241.ts
